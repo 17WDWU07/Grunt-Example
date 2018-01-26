@@ -18,6 +18,8 @@
   "author": "Richard Hpa",
   "license": "ISC",
   "dependencies": {
-    "jquery": "^3.3.1"
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "jquery-ui": "^1.12.1"
   }
 }
